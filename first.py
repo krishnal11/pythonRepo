@@ -1,4 +1,4 @@
 def method1():
-    print('Hello world')
+    print('Hello')
 
 method1()
